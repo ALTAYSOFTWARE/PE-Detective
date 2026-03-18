@@ -1,0 +1,12 @@
+C:\Users\sedat\source\repos\PE Detective\PE Detective\bin\Debug\PE Detective.exe.config
+C:\Users\sedat\source\repos\PE Detective\PE Detective\bin\Debug\PE Detective.exe
+C:\Users\sedat\source\repos\PE Detective\PE Detective\bin\Debug\PE Detective.pdb
+C:\Users\sedat\source\repos\PE Detective\PE Detective\bin\Debug\PE Detective.xml
+C:\Users\sedat\source\repos\PE Detective\PE Detective\obj\Debug\PE Detective.vbproj.AssemblyReference.cache
+C:\Users\sedat\source\repos\PE Detective\PE Detective\obj\Debug\PE_Detective.Form1.resources
+C:\Users\sedat\source\repos\PE Detective\PE Detective\obj\Debug\PE_Detective.Resources.resources
+C:\Users\sedat\source\repos\PE Detective\PE Detective\obj\Debug\PE Detective.vbproj.GenerateResource.cache
+C:\Users\sedat\source\repos\PE Detective\PE Detective\obj\Debug\PE Detective.vbproj.CoreCompileInputs.cache
+C:\Users\sedat\source\repos\PE Detective\PE Detective\obj\Debug\PE Detective.exe
+C:\Users\sedat\source\repos\PE Detective\PE Detective\obj\Debug\PE Detective.xml
+C:\Users\sedat\source\repos\PE Detective\PE Detective\obj\Debug\PE Detective.pdb
